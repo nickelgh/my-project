@@ -1,4 +1,4 @@
-Feature text file
+Feature file
 
 
 
